@@ -1,8 +1,6 @@
-#medida 1
+LABORALES
 
-###12h07m - 12h12m
-
-finestra aperta
+###12h
 
 Cane che abbaia (lontano) 
 Vociare nel cortile (lontano) 
@@ -11,13 +9,6 @@ Vicini che spostano mobili
 Martelli x lavori nel condominio (lontano), cazzuola 
 Uccelli (lontano)
 Cancello che si apre (lontano)
-
-
-###12h27m - 12h32m
-
-finestra chiusa
-io che mangio un panino
-
 Cane che abbaia (lontano) 
 Vociare nel cortile (lontano) 
 Vicina di camera che fa videochiamata
@@ -26,32 +17,26 @@ Martelli x lavori nel condominio (lontano), cazzuola
 Uccelli (lontano)
 Cancello che si apre (lontano)
 
-###16h42m - 16h47m
-
-finestra chiusa
+###16h
 
 traffico
 
-###16h50m - 16h55m
-
-finestra aperta
-
-traffico
-
-
-###18h36m - 18h41m
-
-finestra aperta
+###18h
 
 traffico
 vento
 Uccelli
 rumori di vicinato
-
-###18h43m - 18h48m
-
-finestra chiusa
-
 clacson
 cane
+
+
+FIN DE SEMANA
+
+###### 12
+###### 16 ----> done. very quiet, just someone moving muebles en la vicinidad, and some occasional motorbikes and birds
+###### 18 ----> done. quiet, with small traffic, someone opening the window 
+###### 21
+###### 00
+###### 03 ----> done. very quiet, just zapatos de tacon por la calle
 
